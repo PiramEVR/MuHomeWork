@@ -1,0 +1,43 @@
+
+
+.buttonClose {
+    background-color: #ff0000;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.nameAffair {
+    margin: 0 10px;
+    width: 100px
+}
+
+.affair {
+    display: flex;
+    justify-content: space-between;
+    max-width: 200px;
+    border: solid 1px #000;
+    margin: 5px 0;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+}
+
+.buttonFilters > button {
+    border-radius: 10px;
+    color: white;
+    background-color: #333;
+}
+
+ .buttonFilters > button + button {
+     margin-left: 10px
+ }
+
+
+.buttonFilters .active{
+    background-color: gold;
+    color: #333333;
+}
+
+.affairs {
+    margin-left: 10px;
+}
