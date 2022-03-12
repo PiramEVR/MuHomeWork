@@ -1,5 +1,5 @@
 .dark {
-    background: dimgrey;
+    background: #333333;
 }
 
 .dark-text {
@@ -21,3 +21,4 @@
 .some-text {
     color: darkslateblue;
 }
+
